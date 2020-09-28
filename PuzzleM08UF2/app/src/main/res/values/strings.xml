@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Puzzle-M08UF2</string>
+    <string name="OK">YAHOO!</string>
+    <string name="TituloGanar">Has Ganado!</string>
+    <string name="DescGanar">Has tardado X segundos en completar el puzzle.</string>
+
+    <string name="opcion_menu1">Pausa/Play</string>
+
+    <string name="mensaje_1">Se seleccionó la primer opción</string>
+
+</resources>
